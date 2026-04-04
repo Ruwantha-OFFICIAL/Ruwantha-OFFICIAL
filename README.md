@@ -64,7 +64,7 @@ Later, I explored **C++** and **Go**. Overall, what I've learned has helped me b
 ## 📊 GitHub Stats & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUWANTHA-OFC&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+  [![github-stats-card](https://stats-card.pages.dev/lang?user=Ruwantha-OFFICIAL&layout=compact&type=piechart&theme=gruvbox_light&color=black)](profile)
 </div>
 
 ---
