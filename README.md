@@ -1,11 +1,13 @@
+# ⚡ Ruwantha-OFFICIAL
+
 <div align="center">
-  <a href="https://github.com/MARU-OFC?tab=followers">
-    <img src="https://img.shields.io/github/followers/MARU-OFC?label=Follow%20Me&style=for-the-badge&color=2ea44f&logo=github" alt="Follow Me" />
+  <a href="https://github.com/Ruwantha-OFFICIAL?tab=followers">
+    <img src="https://img.shields.io/github/followers/Ruwantha-OFFICIAL?label=Follow%20Me&style=for-the-badge&color=2ea44f&logo=github" alt="Follow Me" />
   </a>
   <br/><br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+My+GitHub+Profile;MARU+OFFICIAL;Building+Cool+Mobile+Apps&center=true&width=910&height=100&size=40&font=Ribeye&color=ff1d1d" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+My+GitHub+Profile;RUWANTHA+OFFICIAL;Building+Cool+Mobile+Apps&center=true&width=910&height=100&size=40&font=Ribeye&color=ff1d1d" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,8 +16,9 @@
 </div>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=MARU-OFC&label=Profile%20views&color=0e75b6&style=flat-square" alt="MARU-OFC" /> 
+  <img src="https://komarev.com/ghpvc/?username=Ruwantha-OFFICIAL&label=Profile%20views&color=0e75b6&style=flat-square" alt="Ruwantha-OFFICIAL" /> 
 </p>
+
 
 ---
 
@@ -33,7 +36,7 @@
 
 "I'm a fun-loving coder who enjoys learning new things. Coding is a fun and cool thing to do. I started with **Python**, it was easy to learn 🤭. **OOP** concepts were a bit confusing, but after Python, I moved to **JavaScript** 💓. I learned them comparatively, and it was really fun 😇. 
 
-Later, I explored **C++** and **Go**. Overall, what I've learned has helped me build a lot, but the learning never stops! I Love Code 💖"
+Later, I explored **C++** and **Go**. Overall, what I've learned has helped me build a lot, but the learning never stops! "I Love Code 💖"
 
 ---
 
@@ -61,9 +64,9 @@ Later, I explored **C++** and **Go**. Overall, what I've learned has helped me b
 ## 📊 GitHub Stats & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MARU-OFC&show_icons=true&theme=vision-friendly-dark" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ruwantha-OFFICIAL&show_icons=true&theme=vision-friendly-dark" alt="Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MARU-OFC&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruwantha-OFFICIAL&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
 </div>
 
 ---
@@ -73,7 +76,7 @@ Later, I explored **C++** and **Go**. Overall, what I've learned has helped me b
   <a href="mailto:ruwanthalasith20@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/MARU-OFC">
+  <a href="https://github.com/Ruwantha-OFFICIAL">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -82,5 +85,5 @@ Later, I explored **C++** and **Go**. Overall, what I've learned has helped me b
   <br />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
   <br />
-  <span style="color: #8a8a8a;">® MARU-OFC</span>
+  <span style="color: #8a8a8a;">® Ruwantha-OFFICIAL</span>
 </div>
