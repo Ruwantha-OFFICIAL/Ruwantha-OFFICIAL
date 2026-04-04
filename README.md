@@ -63,9 +63,8 @@ Later, I explored **C++** and **Go**. Overall, what I've learned has helped me b
 
 ## 📊 GitHub Stats & Contributions
 
-<div align="center">
+
   [![github-stats-card](https://stats-card.pages.dev/lang?user=Ruwantha-OFFICIAL&layout=compact&type=piechart&theme=gruvbox_light&color=black)](profile)
-</div>
 
 ---
 
