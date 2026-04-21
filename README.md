@@ -61,6 +61,7 @@ Later, I explored **C++** and **Go**. Overall, what I've learned has helped me b
   <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
