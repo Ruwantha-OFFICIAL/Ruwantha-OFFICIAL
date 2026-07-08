@@ -70,7 +70,7 @@ Later, I explored **C++** and **Go**. Overall, what I've learned has helped me b
 
 ## 📊 GitHub Stats & Contributions
 
-[![github-stats-card](https://stats-card.pages.dev/lang?user=Ruwantha-OFFICIAL&theme=react&layout=compact&type=piechart&sort=asc&width=600&height=600&minimum=0.1&max_lang=10)](https://github.com/KasRoudra/github-stats-card)
+[![github-stats-card](https://github.cards/Ruwantha-OFFICIAL?template=Minimal)](https://github.com/Ruwantha-OFFICIAL)
 ---
 
 ## 🤝 Connect with me 
