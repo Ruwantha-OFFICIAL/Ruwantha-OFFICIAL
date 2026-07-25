@@ -68,9 +68,8 @@ Later, I explored **C++** and **Go**. Overall, what I've learned has helped me b
 
 ---
 ## 📚 Databeses
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="redis">
- <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
+![redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ---
 ## 📊 GitHub Stats & Contributions
 
