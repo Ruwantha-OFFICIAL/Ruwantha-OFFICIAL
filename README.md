@@ -76,8 +76,7 @@ Later, I explored **C++** and **Go**. Overall, what I've learned has helped me b
 ![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ---
 ## 📊 GitHub Stats & Contributions
-
-![Top lang](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ruwantha-OFFICIAL&theme=holi)
+![Top lang](https://gitcard-studio.creativecode.com.co/api/languages?username=Ruwantha-OFFICIAL&theme=dark&locale=es)
 
 ---
 
