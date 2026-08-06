@@ -78,6 +78,8 @@ Later, I explored **C++** and **Go**. Overall, what I've learned has helped me b
 ## 📊 GitHub Stats & Contributions
 ![Top lang](https://gitcard-studio.creativecode.com.co/api/languages?username=Ruwantha-OFFICIAL&theme=dark&locale=es)
 
+![Trofeos de GitHub](https://gitcard-studio.creativecode.com.co/api/trophies?username=Ruwantha-OFFICIAL&theme=dark&locale=es)
+
 ---
 
 ## 🤝 Connect with me 
