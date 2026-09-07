@@ -77,7 +77,7 @@ Later, I explored **C++** and **Go**. Overall, what I've learned has helped me b
 ---
 ## 📊 GitHub Stats & Contributions
 
-![GitHub Languages](https://github-languages-card.vercel.app/api/top-languages?username=Ruwantha-OFFICIAL&theme=dark)
+![Lenguajes más Usados](https://gitcard-studio.creativecode.com.co/api/languages?username=Ruwantha-OFFICIAL&theme=dark&locale=es)
 ---
 
 ## 🤝 Connect with me 
