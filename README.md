@@ -1,4 +1,7 @@
-![type](https://readme-typing-svg.demolab.com/?lines=👋Hey+I'm+Ruwantha;I+build+cool+mobile+app;and;website)
+<div align="center">
+
+![type](https://readme-typing-svg.demolab.com/?lines=👋Hey+I'm+Ruwantha;I+build+cool+mobile+app;and;coool+website)
+</div>
 
 <div align="center">
   <p>
