@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=👋+Hey+I'm+Ruwantha;Building+things+with+code;Learning+ML%2C+DL;Open+to+tech+talks&center=true&width=910&height=100&size=40&font=Ribeye&color=ff1d1d" alt="Typing SVG" />
-  </a>
-</div>
+![type](https://readme-typing-svg.demolab.com/?lines=👋Hey+I'm+Ruwantha;I+build+cool+mobile+app;and;website)
 
 <div align="center">
   <p>
@@ -159,17 +155,10 @@ while (ruwantha.learning.length > 0) {
 
 ## 📊 GitHub Stats & Contributions
 
-<div align="center">
 
-[![Ruwantha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruwantha-OFFICIAL&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/Ruwantha-OFFICIAL)
+![Lenguajes más Usados](https://gitcard-studio.creativecode.com.co/api/languages?username=Ruwantha-OFFICIAL&theme=cyberpunk&locale=es)
 
-</div>
-
-<div align="center">
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruwantha-OFFICIAL&layout=compact&theme=dark&hide=html)
-
-</div>
+![Racha de Commits](https://gitcard-studio.creativecode.com.co/api/streak?username=Ruwantha-OFFICIAL&theme=cyberpunk&locale=es)
 
 ---
 
@@ -232,6 +221,6 @@ while (ruwantha.learning.length > 0) {
 
 <div align="center">
 
-<sub>**Profile Last Updated:** 2024 | Always learning, always building 🌱</sub>
+<sub>**Profile Last Updated:** 2026 | Always learning, always building 🌱</sub>
 
 </div>
